@@ -1,0 +1,82 @@
+.cantent_body {
+    display: flex;
+    justify-content: space-between;
+}
+
+.filter_sections {
+    background: white;
+    height: 840px;
+    border: 1px solid rgb(224, 224, 224);
+}
+.headings{
+    color: rgb(104, 104, 255);
+}
+.blue_arrow {
+    width: 15px;
+    height: 15px;
+}
+
+.filter_cantent {
+    padding-bottom: 5px;
+    border-bottom: 1px solid rgb(121, 121, 121);
+}
+
+.filter_sections {
+    width: 350px;
+    margin: 2px;
+    padding: 2px;
+}
+
+.cantent_input {
+    padding: 7px;
+    align-items: center;
+    padding-top: 9px;
+    margin-top: 19px;
+    width: 320px;
+
+}
+
+.cantent_body2 {
+    padding-top: 28px;
+}
+
+.search_filter {
+    margin-left: -15%;
+    padding-top: 25px;
+    padding-right: 35px;
+}
+
+.filter_cantent1 {
+    height: 150px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid rgb(105, 105, 105);
+}
+
+.ranges_input {
+    padding-top: 4px;
+    width: 250px;
+}
+
+.arrow_menu {
+    width: 15px;
+    height: 15px;
+}
+
+.filter_content_section {
+    padding: 3px;
+    display: flex;
+    margin: 3px;
+    justify-content: space-between;
+}
+.deapture_time{
+    padding: 2%;
+    border-top: 1px solid grey;
+    margin-bottom: 5%;
+        border-bottom: 1px solid grey;
+}
+
+.fields {
+    padding-top: 22px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(224, 224, 224);
+}
